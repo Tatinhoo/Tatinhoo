@@ -3,8 +3,9 @@
 <p>Meu nome é Tallys, estudo programação a sério desde 2023 sendo estudante do IF</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tatinhoo&show_icons=true&theme=midnight-purple)
-  <span><img src="https://scontent.cdninstagram.com/v/t51.2885-19/357510820_227941750185199_8616607711034364595_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_ohc=fMt8AHBnOxMAX9JFZc_&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfCtZjECqSq_csUPlEPwt8ZPzZCN7MrjtHlWA_yhb3royA&oe=65F107F4&_nc_sid=10d13b"></img></span>
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatinhoo&hide_progress=true)!-->
+
+  <!-- <span><img src="https://scontent.cdninstagram.com/v/t51.2885-19/357510820_227941750185199_8616607711034364595_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_ohc=fMt8AHBnOxMAX9JFZc_&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfCtZjECqSq_csUPlEPwt8ZPzZCN7MrjtHlWA_yhb3royA&oe=65F107F4&_nc_sid=10d13b"></img></span> !-->
+  
 
 <div style="display: inline_block">
   <h2>Essas são as linguagens que uso:</h2>
@@ -12,6 +13,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <br><br><br><br>
 <div>
   <a href="https://www.youtube.com/@Tatinhoo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
