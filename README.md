@@ -1,4 +1,4 @@
-### Opa, eu sou o Tatinho!
+<h2> Opa, eu sou o Tatinho!</h2>
 
 <p>Meu nome é Tallys, estudo programação a sério desde 2023 sendo estudante do IF</p>
 
@@ -7,12 +7,12 @@
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatinhoo&hide_progress=true)!-->
 
 <div style="display: inline_block">
-  <p>Essas são as linguagens que uso:</p>
+  <h2>Essas são as linguagens que uso:</h2>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-<br><br><br><br><br>
+<br><br><br><br>
 <div>
   <a href="https://www.youtube.com/@Tatinhoo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/otatinhoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
