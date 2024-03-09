@@ -15,7 +15,7 @@
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatinhoo&layout=compact)
 <br><br><br><br>
 <div>
   <a href="https://www.youtube.com/@Tatinhoo" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
